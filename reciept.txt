@@ -1,0 +1,9 @@
+[91;1m__________________________[0m[91;1m
+**One Stop Shop**
+5 - Green Tea - $3.00
+8 - Burrito - $4.00
+8 - Pasta - $5.00
+5 - Taco - $6.00
+5 - Burger - $7.00
+5 - Pizza - $8.00
+5 - Lasagna - $9.00
