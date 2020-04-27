@@ -1,9 +1,23 @@
-[91;1m__________________________[0m[91;1m
-**One Stop Shop**
-5 - Green Tea - $3.00
-8 - Burrito - $4.00
-8 - Pasta - $5.00
-5 - Taco - $6.00
-5 - Burger - $7.00
-5 - Pizza - $8.00
-5 - Lasagna - $9.00
+
+_______________________________
+
+	**One Stop Shop**
+0 - Green Tea - $3.00
+0 - Burrito - $4.00
+0 - Pasta - $5.00
+0 - Taco - $6.00
+0 - Burger - $7.00
+0 - Pizza - $8.00
+43 - Lasagna - $9.00
+
+Subtotal = $387.00
+Tax 0.0825 = $31.93
+Total = $418.93
+
+50% Tip = $193.50
+Total w/Tip = $612.43
+Payment = $0.00
+Change Due = $0.00
+Thank You for your business have a nice day
+
+_______________________________
